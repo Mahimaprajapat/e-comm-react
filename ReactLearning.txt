@@ -1,0 +1,16 @@
+1. props
+- property
+
+2. Routing / react router dom
+1. search param or search query param
+* have to import m" useSearchParam"
+
+2.useNavigate (/hook)
+
+const navigate = useNavigate()
+use- onclick={()=>navigate("/about`)}
+
+
+2. nested routing
+
+3.user location hook
